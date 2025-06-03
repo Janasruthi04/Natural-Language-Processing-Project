@@ -12,7 +12,7 @@ How to Use:
 1.	Run the chatbot script.
 2.	Type your message about how you’re feeling.
 3.	Receive instant support and self-care advice.
-4.	
+   
 Technologies Used:
 •	Python for chatbot development.
 •	NLTK for natural language processing and lemmatization.
