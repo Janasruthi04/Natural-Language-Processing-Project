@@ -1,0 +1,6 @@
+mental-health-chatbot/
+├── mental_health_chatbot.py
+├── README.md
+├── requirements.txt
+├── sample_inputs.txt
+└── CONTRIBUTING.md
